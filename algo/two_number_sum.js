@@ -1,0 +1,3 @@
+function twoNumberSum(array, targetSum) {
+    
+}
