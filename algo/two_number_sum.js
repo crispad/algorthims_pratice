@@ -11,4 +11,4 @@ function twoNumberSum(array, targetSum) {
     return [];
 }
 
-twoNumberSum([1, 2, 5, 5, 1], 10);
+
